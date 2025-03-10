@@ -1,0 +1,25 @@
+# Ignorar el archivo .env (contiene variables sensibles)
+.env
+
+# Ignorar carpetas de Python
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos generados
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignorar archivos de distribución y build
+dist/
+build/
+*.egg-info/
