@@ -1,2 +1,2 @@
 # PokebotTCG
-A Discord bot that generates random Pokémon cards and their Pokédex entries. 
+A Discord bot that generates random Pokémon cards and their Pokédex entries. (Not finished)
